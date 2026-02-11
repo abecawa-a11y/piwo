@@ -33,7 +33,6 @@ const CONFIG = {
             noBtn: "No"                                                 // Text for "No" button
         }
     },
-
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
@@ -76,7 +75,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dxfmbktds/video/upload/v1770818963/03._Pillow_Talk_Kaz_Ba%C5%82agane_x_Belmondo_gtwyw1.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 1.0                        // Volume level (0.0 to 1.0)
     }
 };
 
